@@ -1,7 +1,7 @@
 Pastels
 =======
 
-Very mellow [Alfred](http://www.alfredapp.com/) Theme
+> Very mellow [Alfred](http://www.alfredapp.com/) Theme
 
 | Part | Color |
 | ---- | ----- |
@@ -12,7 +12,5 @@ Very mellow [Alfred](http://www.alfredapp.com/) Theme
 
 ## Install
 
-1.
-`git clone https://github.com/lrbecker/Pastels.git`
-
+1. `git clone https://github.com/lrbecker/Pastels.git`
 2. Double click -> Install
